@@ -1,2 +1,1 @@
-<iframe src="https://nbviewer.org/github/snowflaxGitRepo/chatgpt-pdf/blob/main/README.ipynb" width="100%" height="600"></iframe>
-
+![Open In nbviewer](https://nbviewer.org/gist/snowflaxGitRepo/0976c144910d21d299265dc6b5daf460)
