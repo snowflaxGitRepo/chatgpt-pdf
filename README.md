@@ -1,1 +1,1 @@
-[Open Notebook](https://nbviewer.org/github/snowflaxGitRepo/chatgpt-pdf/blob/main/README.ipynb)
+[![Open in nbviewer](https://img.shields.io/badge/Open%20in%20nbviewer-interactive-blue)](https://nbviewer.jupyter.org/github/username/repo/blob/main/notebook.ipynb)
