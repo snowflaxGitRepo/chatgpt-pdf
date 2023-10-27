@@ -1,4 +1,5 @@
 langchain
+flask
 PyPDF2
 unstructured
 python-docx
