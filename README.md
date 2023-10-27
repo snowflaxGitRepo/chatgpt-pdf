@@ -1,1 +1,1 @@
-[![Open in nbviewer](https://img.shields.io/badge/Open%20in%20nbviewer-interactive-blue)](https://nbviewer.jupyter.org/github/username/repo/blob/main/notebook.ipynb)
+<script src="https://gist.github.com/snowflaxGitRepo/0976c144910d21d299265dc6b5daf460.js"></script>
